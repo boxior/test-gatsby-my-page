@@ -6,7 +6,14 @@ const Portfolio = () => (
         <h1>Hi from the Portfolio</h1>
         <div className="portfolio__list">
             <div className="portfolio__item">
-                <div className="portfolio__img"></div>
+                <a href="">
+                    <img className="portfolio__img"/>
+                </a>
+            </div>
+            <div className="portfolio__item">
+                <a href="">
+                    <img className="portfolio__img"/>
+                </a>
             </div>
         </div>
     </div>

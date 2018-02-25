@@ -9,6 +9,7 @@
     "gatsby-link": "^1.6.37",
     "gatsby-plugin-react-helmet": "^2.0.5",
     "gatsby-plugin-sass": "^1.0.17",
+    "gatsby-plugin-sharp": "^1.6.34",
     "gatsby-plugin-typography": "^1.7.14",
     "gatsby-transformer-sharp": "^1.6.21",
     "python": "0.0.4",
