@@ -1,0 +1,21 @@
+.social {
+  position: fixed;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+
+  .social__ul {
+
+  }
+
+  .social__li {
+
+  }
+
+  .social__link {
+    width: 30px;
+    height: 30px;
+    background-image: none;
+  }
+}
