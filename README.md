@@ -1,10 +1,14 @@
 # test-gatsby-my-page
+https://boxior.github.io/test-gatsby-my-page/my-page-public/
 
 Заюзал базовые функции Gatsby.js
 Особый функционал страницы не делал
 Есть работы с React.js: 
+
   https://github.com/boxior/test-ssd-celendar
+  
   https://github.com/boxior/test-eldorado
+  
 Что понравилось в библиотеке Gatsby: готовый функционал, с кучей тем)
 Что не понравилось: бывают баги в ходе разработки, особенно с деплоем), скупая документация, мало примеров.
 
