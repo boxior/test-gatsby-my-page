@@ -6,9 +6,24 @@ li {
   list-style-type: none;
 }
 
+img {
+  margin-bottom: 0;
+}
+
+.title {
+
+  @media all and(max-width: 800px){
+    font-size: 20px;
+  }
+}
+
 .container {
   padding: 0 50px;
   margin: 0 auto;
+
+  @media all and(max-width: 800px){
+    padding-right: 0;
+  }
 }
 
 $color-orange: #ff923a;
