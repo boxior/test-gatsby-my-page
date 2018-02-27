@@ -1,3 +1,13 @@
+Github page:
+
+https://boxior.github.io/test-gatsby-my-page/public/
+
+В этом проекте много функционал не заюзал
+
+Gatsby: использовал Sass настройки, роутинг через компонент Link, картинки юзад через import, при деплое добавил pathPrefix (чтобы были корректные пути к фйлам).
+
+Gatsby: что не понравилось, - есть достаточно ошибок на пути разработки, не глубокая документация.
+
 # gatsby-starter-default
 The default Gatsby starter
 
