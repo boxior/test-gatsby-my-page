@@ -1,6 +1,6 @@
 # test-gatsby-my-page
 
-https://boxior.github.io/test-gatsby-my-page/my-page-public/
+https://boxior.github.io/test-gatsby-my-page/my-page/public/
 
 Заюзал базовые функции Gatsby.js
 
